@@ -10,6 +10,7 @@ If you execute this source code, you type the command as shown below on terminal
 python3 main.py
 ```
 This VAE can choice network type (i.e. FC only or CNNs).<br>
+Default network is FC only.<br>
 Usage is shown below:<br>
 * **FC only: fully connected only**
 ```
