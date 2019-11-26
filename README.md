@@ -26,3 +26,4 @@ python3 main.py --network_type 'cnn'
 * [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf)
 * [Tutorial on Variational Autoencoders](https://arxiv.org/pdf/1606.05908.pdf)
 * [VAE's Slide](./Explanation_VAE_jp.pdf)
+* [Chainer official implementation](https://github.com/chainer/chainer/tree/master/examples/vae)
