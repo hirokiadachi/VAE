@@ -1,5 +1,5 @@
 # Variational Autoencoder (VAE)
-This code implements with pytorch version 1.0 and python3.
+This code implements with pytorch version 1.0 and python3.<br>
 If you execute this source code, you type the command as shown below on terminal.
 
 * [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf)
