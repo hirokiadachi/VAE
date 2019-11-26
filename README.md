@@ -1,4 +1,5 @@
 # Variational Autoencoder (VAE)
+VAE is proposed by Kingma and Welling in 2014 on ICLR.<br>
 This code has implemented with pytorch version 1.0 and python3.<br>
 If you execute this source code, you type the command as shown below on terminal.
 
