@@ -16,3 +16,6 @@ python3 main.py --network_type 'fc'
 ```
 python3 main.py --network_type 'cnn'
 ```
+
+# Result
+![VAE Result](./image/samples100.jpg)
