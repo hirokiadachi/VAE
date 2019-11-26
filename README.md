@@ -2,6 +2,8 @@
 This code implements with pytorch version 1.0 and python3.
 If you execute this source code, you type the command as shown below on terminal.
 
+[VAE's Slide](./Explanation_VAE_jp.pdf)
+
 ```
 python3 main.py
 ```
