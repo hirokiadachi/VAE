@@ -2,7 +2,9 @@
 This code implements with pytorch version 1.0 and python3.
 If you execute this source code, you type the command as shown below on terminal.
 
-[VAE's Slide](./Explanation_VAE_jp.pdf)
+* [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf)
+* [Tutorial on Variational Autoencoders](https://arxiv.org/pdf/1606.05908.pdf)
+* [VAE's Slide](./Explanation_VAE_jp.pdf)
 
 ```
 python3 main.py
